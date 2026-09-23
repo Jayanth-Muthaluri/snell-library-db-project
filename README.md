@@ -9,7 +9,7 @@ Northeastern University, Data Management & Database Design, DAMG 6210
 |---|------|------|
 | 1 | Jayanth Muthaluri| 002593185|
 | 2 | Savan Sangamesh Awanti| | 
-| 3 | Haojiang Shi| | 
+| 3 | Haojiang Shi| 003181444| 
 
 ## 1. Problem Statement
 
